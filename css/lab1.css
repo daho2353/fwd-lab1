@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(252, 143, 0);
+    transition-delay: 10ms;
+}
+
+img{
+    max-width: 200px;
+    max-height: 500px;
+}
+
